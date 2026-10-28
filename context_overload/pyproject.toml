@@ -1,0 +1,16 @@
+[project]
+name = "context-overload"
+version = "0.1.0"
+description = "The context overload experiment: a toy agent that gets worse as irrelevant notes pile up, and one that filters first."
+requires-python = ">=3.12"
+dependencies = ["matplotlib>=3.8", "numpy>=1.26"]
+
+[tool.uv]
+package = false
+
+[dependency-groups]
+dev = ["pytest>=8.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
