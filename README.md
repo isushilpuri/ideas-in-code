@@ -15,6 +15,7 @@ uv run python <main>.py   # run it
 | Video | Folder | Run |
 |---|---|---|
 | More Context Made My AI Agent Worse | [`context_overload/`](context_overload/) | `uv run python context_overload.py` |
+| Why You Can't Stop Scrolling | [`scrolling_experiment/`](scrolling_experiment/) | `uv run python scrolling_experiment.py` |
 
 These are **toy models**: their behaviour is written into the code on purpose so
 an idea can be seen clearly. They are illustrations, not benchmarks.
