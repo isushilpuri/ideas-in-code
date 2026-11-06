@@ -18,6 +18,7 @@ uv run python <main>.py   # run it
 | Why You Can't Stop Scrolling | [`scrolling_experiment/`](scrolling_experiment/) | `uv run python scrolling_experiment.py` |
 | You're Not Your Mind | [`youre_not_your_mind/`](youre_not_your_mind/) | `uv run python youre_not_your_mind.py` |
 | Ergodicity: The Winning Bet That Ruins You | [`ergodicity/`](ergodicity/) | `uv run ergodicity-sim --no-video` |
+| Imposter Syndrome | [`imposter_syndrome/`](imposter_syndrome/) | `uv run imposter-sim` |
 
 These are **toy models**: their behaviour is written into the code on purpose so
 an idea can be seen clearly. They are illustrations, not benchmarks.
