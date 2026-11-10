@@ -19,6 +19,7 @@ uv run python <main>.py   # run it
 | You're Not Your Mind | [`youre_not_your_mind/`](youre_not_your_mind/) | `uv run python youre_not_your_mind.py` |
 | Ergodicity: The Winning Bet That Ruins You | [`ergodicity/`](ergodicity/) | `uv run ergodicity-sim --no-video` |
 | Imposter Syndrome | [`imposter_syndrome/`](imposter_syndrome/) | `uv run imposter-sim` |
+| People Like You More Than You Think (I Simulated It) | [`liking_gap/`](liking_gap/) | `uv run liking-gap` |
 
 These are **toy models**: their behaviour is written into the code on purpose so
 an idea can be seen clearly. They are illustrations, not benchmarks.
