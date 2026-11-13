@@ -20,6 +20,7 @@ uv run python <main>.py   # run it
 | Ergodicity: The Winning Bet That Ruins You | [`ergodicity/`](ergodicity/) | `uv run ergodicity-sim --no-video` |
 | Imposter Syndrome | [`imposter_syndrome/`](imposter_syndrome/) | `uv run imposter-sim` |
 | People Like You More Than You Think (I Simulated It) | [`liking_gap/`](liking_gap/) | `uv run liking-gap` |
+| Why Time Speeds Up as You Get Older | [`time_perception/`](time_perception/) | `uv run time-perception` |
 
 These are **toy models**: their behaviour is written into the code on purpose so
 an idea can be seen clearly. They are illustrations, not benchmarks.
