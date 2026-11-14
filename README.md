@@ -21,6 +21,7 @@ uv run python <main>.py   # run it
 | Imposter Syndrome | [`imposter_syndrome/`](imposter_syndrome/) | `uv run imposter-sim` |
 | People Like You More Than You Think (I Simulated It) | [`liking_gap/`](liking_gap/) | `uv run liking-gap` |
 | Why Time Speeds Up as You Get Older | [`time_perception/`](time_perception/) | `uv run time-perception` |
+| Can You Code James Bond's Charisma? | [`bond_charisma/`](bond_charisma/) | `uv run bond-charisma` |
 
 These are **toy models**: their behaviour is written into the code on purpose so
 an idea can be seen clearly. They are illustrations, not benchmarks.
